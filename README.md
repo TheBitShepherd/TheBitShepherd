@@ -6,6 +6,6 @@ My name is Brandon. I'm trying to figure out how the world works, and writing lo
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Br4nd0R&show_icons=true&theme=gotham" alt="Brand0R's GitHub Stats" />
 
 </details>
