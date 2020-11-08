@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Brandon. I'm trying to figure out how the world works, and writing lots of code along the way.
+<div class="tenor-gif-embed" data-postid="9051183" data-share-method="host" data-width="100%" data-aspect-ratio="1.744186046511628"><a href="https://tenor.com/view/kaito-typing-gaming-programming-anime-gif-9051183">Kaito Typing GIF</a> from <a href="https://tenor.com/search/kaito-gifs">Kaito GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **Br4nd0R/Br4nd0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
